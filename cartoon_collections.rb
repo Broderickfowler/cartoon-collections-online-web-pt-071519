@@ -29,7 +29,8 @@ end
 def find_the_cheese(cheffar_cheese)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  cheffae_cheese.include?(cheese)
-    cheese.type
+  cheffar_cheese.
+  cheese_type.include?(cheese)
+    
 end
 
