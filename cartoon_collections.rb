@@ -30,7 +30,7 @@ def find_the_cheese(cheffar_cheese)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese.find do |cheese|
-  cheese_type.include?(cheese)
+  cheese_types.include?(cheese)
   end
 end
 
